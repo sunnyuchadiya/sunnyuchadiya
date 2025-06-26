@@ -22,7 +22,7 @@
 <!--Intro start-->
 <ul>
   <li>
-    <p>🔭 I’m currently working on <strong>AWS and the MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong></p>
+    <p>🔭 I’m currently working on <strong> the MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong></p>
   </li>
   <li>
     <p>🌱 I’m currently learning <strong>to build scalable applications using the MERN Stack</strong></p>
@@ -31,16 +31,12 @@
     <p>☁️ I’ve keen interest in cloud computing. So, I’m learning <strong>AWS</strong></p>
   </li>
   <li>
-    
-  </li>
-  <li>
     <p>💬 Ask me about <strong>AWS, React, React Native, Node.js, MongoDB</strong></p>
   </li>
   <li>
     <p>📫 Feel free to reach me at <strong><a href="sunnyuchadiya9@gmail.com">sunyuchadiya9@gmail.com</a></strong></p>
   </li>
-  <li>
-  </li>
+
 </ul>
 <!--Intro end-->
 
