@@ -31,7 +31,7 @@
 <p>☁️ I have a keen interest in the MERN Stack, so I’m learning technologies like MongoDB, Express.js, React.js, and Node.js.</p>
   </li>
   <li>
-    <p>💬 Ask me about <strong>AWS, React, React Native, Node.js, MongoDB</strong></p>
+    <p>💬 Ask me about <strong>React, React Native, Node.js, MongoDB</strong></p>
   </li>
   <li>
     <p>📫 Feel free to reach me at <strong><a href="sunnyuchadiya9@gmail.com">sunyuchadiya9@gmail.com</a></strong></p>
