@@ -28,7 +28,7 @@
     <p>🌱 I’m currently learning <strong>to build scalable applications using the MERN Stack</strong></p>
   </li>
   <li>
-    <p>☁️ I’ve keen interest in MERNN STACK. So, I’m learning <strong> Many language</strong></p>
+<p>☁️ I have a keen interest in the MERN Stack, so I’m learning technologies like MongoDB, Express.js, React.js, and Node.js.</p>
   </li>
   <li>
     <p>💬 Ask me about <strong>AWS, React, React Native, Node.js, MongoDB</strong></p>
